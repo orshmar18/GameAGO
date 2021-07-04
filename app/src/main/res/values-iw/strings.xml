@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GameGA</string>
+    <string name="Start">התחל</string>
+    <string name="Instructions">הוראות</string>
+    <string name="ReturningPlayer">שחקן חוזר</string>
+    <string name="NewPlayer">שחקן חדש</string>
+    <string name="UserName">אנא הכנס שם משתמש</string>
+    <string name="Email">אימייל</string>
+    <string name="Password">סיסמא</string>
+    <string name="VerifyPassword">אימות סיסמא</string>
+    <string name="Enter">כניסה</string>
+    <string name="tap_to_start">לחץ לחיצה ארוכה כדי שפיקי יעוף, היזהר מאויביו, הם מחזיקים את אש!</string>
+    <string name="score">טבלת שיאים</string>
+    <string name="Our_Story">הסיפור שלנו</string>
+    <string name="GAME_OVER">המשחק נגמר</string>
+    <string name="Shop">חנות</string>
+    <string name="LOCKED">נעול</string>
+    <string name="win_text">עברת את המשחק, אש גאה בך !</string>
+    <string name="Back">חזור</string>
+    <string name="score_game_over">ניקוד :</string>
+    <string name="Games_Played">משחקים ששוחקו :</string>
+    <string name="Name">אנא הכנ</string>
+</resources>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:background="@drawable/menu_background"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="50dp">
+
+<ImageButton
+    android:layout_width="50dp"
+    android:layout_height="50dp"
+    android:id="@+id/settings_btn"
+    android:src="@drawable/settings"
+    android:layout_marginTop="5dp"
+    android:padding="6dp"
+    android:background="@null"
+    android:scaleType="fitXY">
+</ImageButton>
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/storeBtn"
+        android:src="@drawable/shop_logo"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="right"
+        android:layout_marginLeft="50dp"
+        android:background="@null"
+        android:scaleType="fitXY">
+    </ImageButton>
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="15dp"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/coin1">
+    </ImageView>
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:layout_marginRight="10dp"
+        android:gravity="center"
+        android:id="@+id/tv_coins"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:text="0">
+    </TextView>
+
+</RelativeLayout>
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="137dp"
+        android:layout_marginTop="20dp"
+        android:scaleType="fitXY"
+        android:layout_gravity="center"
+        android:src="@drawable/pokemonlogo">
+    </ImageView>
+
+
+    <Button
+        android:id="@+id/StartBtn"
+        android:layout_width="250dp"
+        android:layout_height="80dp"
+        android:text="@string/Start"
+        android:textStyle="bold"
+        android:textSize="17sp"
+        android:fontFamily="@font/font_text"
+        android:textColor="@color/black"
+        android:layout_marginTop="60dp"
+        android:layout_gravity="center"
+        android:background="@drawable/buttons">
+    </Button>
+
+
+    <Button
+        android:layout_gravity="center"
+        android:layout_width="250dp"
+        android:layout_height="80dp"
+        android:background="@drawable/buttons"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/black"
+        android:textSize="17sp"
+        android:id="@+id/ScoreBtn"
+        android:fontFamily="@font/font_text"
+        android:text="@string/score">
+    </Button>
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="80dp"
+        android:id="@+id/ourStoryBtn"
+        android:background="@drawable/buttons"
+        android:layout_gravity="center"
+        android:fontFamily="@font/font_text"
+        android:layout_marginTop="20dp"
+        android:layout_margin="10dp"
+        android:textColor="@color/black"
+        android:textSize="17sp"
+        android:text="@string/Our_Story">
+    </Button>
+
+</LinearLayout>
+
+

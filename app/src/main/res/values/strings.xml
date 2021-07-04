@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GameGA</string>
+    <string name="Start">Start</string>
+    <string name="Instructions">Instructions</string>
+    <string name="ReturningPlayer">Returning Player</string>
+    <string name="NewPlayer">New Player</string>
+    <string name="UserName">Please enter username</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="VerifyPassword">Verify Password</string>
+    <string name="Enter">Enter</string>
+    <string name="tap_to_start">Tap long press for piki to fly. Be careful from pikies enemys, they have Ash!</string>
+    <string name="score">Score Board</string>
+    <string name="Our_Story">Our Story</string>
+    <string name="GAME_OVER">GAME OVER</string>
+    <string name="Shop">Shop</string>
+    <string name="LOCKED">LOCKED</string>
+    <string name="win_text">You have finished the game Ash is proud of you</string>
+    <string name="Back">Back</string>
+    <string name="score_game_over">Score :</string>
+    <string name="Games_Played">Games Played :</string>
+    <string name="Name">Please enter username</string>
+</resources>
